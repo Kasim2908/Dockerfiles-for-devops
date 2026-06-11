@@ -1,4 +1,4 @@
-# Dockerfiles for DevOps 🚀
+# Dockerfiles for DevOps 
 
 A collection of production-ready Dockerfiles for different types of applications and DevOps use cases.
 
