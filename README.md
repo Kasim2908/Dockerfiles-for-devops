@@ -180,7 +180,7 @@ If you found this repository useful, consider giving it a ⭐ on GitHub.
 
 # 👨‍💻 Author
 
-## Will King
+## Mohammad Kasim
 
 GitHub: https://github.com/Kasim2908
 
